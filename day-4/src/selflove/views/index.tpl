@@ -75,9 +75,9 @@
 
 <body>
   <header>
-    <h1 class="logo">Welcome to Beego</h1>
+    <h1 class="logo">Welcome to Love Yourself </h1>
     <div class="description">
-      Beego is a simple & powerful Go web framework which is inspired by tornado and sinatra.
+      Loving yourself is the best gift a person can give to himself. 
     </div>
   </header>
   <footer>
